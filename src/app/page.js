@@ -1,5 +1,8 @@
 import Link from 'next/link';
-
+import Service from './services/page';
+import Gallery from './gallery/page';
+import About from './about/page';
+import Contact from './contactus/page';
 
 export default function Home() {
   return (
@@ -22,6 +25,13 @@ export default function Home() {
       <img src="/images/profile.png" style={{backgroundColor:"#fff", borderRadius:"70px",marginBottom:"20px"}}  width={400} height={400} alt="" />
     </div>
   </section>
+  <About/>
+<Service/>
+<Gallery/>
+
+<Contact/>
+
+
   </>
   )
 }

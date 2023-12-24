@@ -30,7 +30,7 @@ const handleSubmit = async(e)=>{
   
      
   <>
-  <section className="section-contact">
+  <section className="section-contact" id='contactus'>
      <div className="contact-content container">
       <h1 className="sub-title " style={{color:'white'}}>My<span>Contact </span></h1>
      </div>

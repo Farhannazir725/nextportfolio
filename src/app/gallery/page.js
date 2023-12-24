@@ -9,7 +9,7 @@ export default function Gallery() {
   return (
     <>
     
-    <section>
+    <section id='gallery'>
     <div className="services" id="services">
     <h1 className="sub-title" style={{color:'white'}}>My<span>Gallery </span></h1>
         <div className="container">
