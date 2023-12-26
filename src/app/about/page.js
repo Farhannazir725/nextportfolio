@@ -44,35 +44,37 @@ contribution</div>
 
 
                             {/* //Experience */}
- <h1 className="sub-title" style={{color:'white',fontSize:'36px',marginLeft:'-100px'}}>Achievemnets</h1>
+ <h1 className="sub-title" style={{color:'white',fontSize:'36px',marginLeft:'-100px'}}>Experience</h1>
 <div className="about-container" style={{marginTop:'40px'}}>
   <div className="about-details">
-    <div className="about-card" style={{width:'300px'}}>
-    <i class='bx bxs-briefcase' style={{fontSize:'40px',color:'teal',marginLeft:'100px',marginTop:'50px'}}></i><span  className='about-span' style={{fontSize:'14px'}}>Experience</span>
-      <h1>Director at   <span style={{fontSize:'14px'}}> Ormap Forensicmart Private Limited </span> </h1>
-      <h3>May-2019 To Continue...</h3>
+    <div className="about-card" style={{width:'280px'}}>
+    <img src="logo/logo1.jpeg" width='70' style={{fontSize:'40px',color:'teal',marginLeft:'104px',marginTop:'50px'}} alt="" />
+      <h1>Director </h1>
+      <h4 style={{textAlign:'center'}}>Ormap Forensicmart Private limited</h4>
+      <h4 style={{textAlign:'center'}}>May-2019 To Continue...</h4>
     </div>
 
-    <div className="about-card" style={{width:'300px'}}>
-    <i class='bx bxs-briefcase' style={{fontSize:'40px',color:'teal',marginLeft:'100px',marginTop:'50px'}}></i><span  className='about-span' style={{fontSize:'14px'}}>Experience</span>
-      <h1>Scientific Assistant <span style={{fontSize:'14px'}}>Forensic Science Laboratory </span> </h1>
-      <h3>Crime Scene Technical at State</h3>
-      <h3>Oct-2020 To Continue...</h3>
+    <div className="about-card" style={{width:'280px'}}>
+    <img src="logo/logo2.jpeg" width='50' style={{fontSize:'40px',color:'teal',marginLeft:'104px',marginTop:'50px'}} alt="" />
+      <h1>Scientific Assistant  </h1>
+      <h3>Crime scene technical</h3>
+      <h4 style={{textAlign:'center'}}>State Forensic science laboratory</h4>
+      <h4 style={{textAlign:'center'}}>Oct-2020 To Continue...</h4>
     </div>
 
 
-    <div className="about-card" style={{width:'300px'}}>
-    <i class='bx bxs-briefcase' style={{fontSize:'40px',color:'teal',marginLeft:'100px',marginTop:'50px'}}></i><span  className='about-span' style={{fontSize:'14px'}}>Experience</span>
-      <h1>Intern at <span style={{fontSize:'14px'}}>Central Forensic  </span> </h1>
-      <h3>Science Laboratory - CBI, Delhi</h3>
-      <h3>Jun-2018 To Jul-2018</h3>
+    <div className="about-card" style={{width:'280px'}}>
+    <img src="logo/logo3.jpeg" width='50' style={{fontSize:'40px',color:'teal',marginLeft:'104px',marginTop:'50px'}} alt="" />
+      <h1>Internship</h1>
+      <h4 style={{textAlign:'center'}}> Central Forensic Science Laboratory - CFSL- CBI, Delhi</h4>
+      <h4 style={{textAlign:'center'}}>Jun-2018 To Jul-2018</h4>
     </div>
 
-    <div className="about-card" style={{width:'300px'}}>
-    <i class='bx bxs-briefcase' style={{fontSize:'40px',color:'teal',marginLeft:'100px',marginTop:'50px'}}></i><span  className='about-span' style={{fontSize:'14px'}}>Experience</span>
-      <h1>Intern at <span style={{fontSize:'14px'}}>Codon Biotech  </span> </h1>
-      <h3>Codon Biotech Pvt. ltd </h3>
-      <h3>May-2016 To Jul-2016</h3>
+    <div className="about-card" style={{width:'280px'}}>
+    <img src="logo/logo4.png" width='50' style={{fontSize:'40px',color:'teal',marginLeft:'104px',marginTop:'50px'}} alt="" />
+      <h1>Intern  </h1>
+      <h4 style={{textAlign:'center'}}>Codon Biotech Private Limited </h4>
+      <h4 style={{textAlign:'center'}}>May-2016 To Jul-2016</h4>
     </div>
 
   </div>
@@ -82,7 +84,7 @@ contribution</div>
 
 
                                         {/* // project */}
-      <h1 className="sub-title" style={{color:'white',fontSize:'36px',marginLeft:'-100px'}}>Project</h1>
+      <h1 className="sub-title" style={{color:'white',fontSize:'36px',marginLeft:'-100px'}}>Project & Achievemnets</h1>
       <div className="about-container" style={{marginTop:'40px'}}>
         <div className="about-details">
      
