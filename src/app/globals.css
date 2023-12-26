@@ -626,7 +626,7 @@ h5{
   margin-top: 40px;
   margin-bottom: 20px;
   text-align: center;
-  font-size: 28px;
+  font-size: 22px;
   animation: slideLeft 1s ease forwards;
   animation-delay: 1s;
 }
@@ -836,11 +836,11 @@ h5{
     margin-right: 50px;
   }
   .bg-white{
-    margin-left: 40px;
+    
     width: 80%;
   }
   iframe{
-    width: 80%;
+    width: 100%;
   }
     .about-details{
    display: flex;

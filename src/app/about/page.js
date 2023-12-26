@@ -17,26 +17,26 @@ contribution</div>
     
 
 
-
+                    {/* Education */}
      <h1 className="sub-title" style={{color:'white',fontSize:'36px',marginLeft:'-100px'}}>Education</h1>
       <div className="about-container" style={{marginTop:'40px'}}>
         <div className="about-details">
           <div className="about-card">
           <i class='bx bx-certification' style={{fontSize:'70px',color:'teal',marginLeft:'100px',marginTop:'50px'}}></i><span  className='about-span'>Degree</span>
             <h1>Msc  <span>Forensic Science </span></h1>
-            <h3>July-2017 TO May-2019</h3>
+            
           </div>
 
           <div className="about-card">
           <i class='bx bx-certification' style={{fontSize:'70px',color:'teal',marginLeft:'100px',marginTop:'50px'}}></i><span className='about-span'>Degree</span>
             <h1>Bsc (H) <span>Forensic Science </span></h1>
-            <h3>July-2014 TO May-2017</h3>
+           
           </div>
 
           <div className="about-card">
           <i class='bx bx-certification' style={{fontSize:'70px',color:'teal',marginLeft:'100px',marginTop:'50px'}}></i><span className='about-span'>Degree</span>
             <h1>Php <span>Laravel</span>  </h1>
-            <h3>Croma Campus</h3>
+           
           </div>
 
         </div>
@@ -44,28 +44,35 @@ contribution</div>
 
 
                             {/* //Experience */}
- <h1 className="sub-title" style={{color:'white',fontSize:'36px',marginLeft:'-100px'}}>Experience</h1>
+ <h1 className="sub-title" style={{color:'white',fontSize:'36px',marginLeft:'-100px'}}>Achievemnets</h1>
 <div className="about-container" style={{marginTop:'40px'}}>
   <div className="about-details">
-    <div className="about-card">
-    <i class='bx bxs-briefcase' style={{fontSize:'70px',color:'teal',marginLeft:'100px',marginTop:'50px'}}></i><span  className='about-span'>Experience</span>
-      <h1>Director at Ormap  <span>Forensicmart Private Limited </span> </h1>
+    <div className="about-card" style={{width:'300px'}}>
+    <i class='bx bxs-briefcase' style={{fontSize:'40px',color:'teal',marginLeft:'100px',marginTop:'50px'}}></i><span  className='about-span' style={{fontSize:'14px'}}>Experience</span>
+      <h1>Director at   <span style={{fontSize:'14px'}}> Ormap Forensicmart Private Limited </span> </h1>
       <h3>May-2019 To Continue...</h3>
     </div>
 
-    <div className="about-card">
-    <i class='bx bxs-briefcase' style={{fontSize:'70px',color:'teal',marginLeft:'100px',marginTop:'50px'}}></i><span  className='about-span'>Experience</span>
-      <h1>Scientific Assistant <span>Forensic Science Laboratory </span> </h1>
+    <div className="about-card" style={{width:'300px'}}>
+    <i class='bx bxs-briefcase' style={{fontSize:'40px',color:'teal',marginLeft:'100px',marginTop:'50px'}}></i><span  className='about-span' style={{fontSize:'14px'}}>Experience</span>
+      <h1>Scientific Assistant <span style={{fontSize:'14px'}}>Forensic Science Laboratory </span> </h1>
       <h3>Crime Scene Technical at State</h3>
       <h3>Oct-2020 To Continue...</h3>
     </div>
 
 
-    <div className="about-card">
-    <i class='bx bxs-briefcase' style={{fontSize:'70px',color:'teal',marginLeft:'100px',marginTop:'50px'}}></i><span  className='about-span'>Experience</span>
-      <h1>Intern at <span>Central Forensic  </span> </h1>
+    <div className="about-card" style={{width:'300px'}}>
+    <i class='bx bxs-briefcase' style={{fontSize:'40px',color:'teal',marginLeft:'100px',marginTop:'50px'}}></i><span  className='about-span' style={{fontSize:'14px'}}>Experience</span>
+      <h1>Intern at <span style={{fontSize:'14px'}}>Central Forensic  </span> </h1>
       <h3>Science Laboratory - CBI, Delhi</h3>
       <h3>Jun-2018 To Jul-2018</h3>
+    </div>
+
+    <div className="about-card" style={{width:'300px'}}>
+    <i class='bx bxs-briefcase' style={{fontSize:'40px',color:'teal',marginLeft:'100px',marginTop:'50px'}}></i><span  className='about-span' style={{fontSize:'14px'}}>Experience</span>
+      <h1>Intern at <span style={{fontSize:'14px'}}>Codon Biotech  </span> </h1>
+      <h3>Codon Biotech Pvt. ltd </h3>
+      <h3>May-2016 To Jul-2016</h3>
     </div>
 
   </div>
@@ -75,26 +82,21 @@ contribution</div>
 
 
                                         {/* // project */}
-      <h1 className="sub-title" style={{color:'white',fontSize:'36px',marginLeft:'-100px'}}>Exp & Project</h1>
+      <h1 className="sub-title" style={{color:'white',fontSize:'36px',marginLeft:'-100px'}}>Project</h1>
       <div className="about-container" style={{marginTop:'40px'}}>
         <div className="about-details">
-        <div className="about-card">
-    <i class='bx bxs-briefcase' style={{fontSize:'70px',color:'teal',marginLeft:'100px',marginTop:'50px'}}></i><span  className='about-span'>Experience</span>
-      <h1>Intern at <span>Codon Biotech  </span> </h1>
-      <h3>Codon Biotech Pvt. ltd </h3>
-      <h3>May-2016 To Jul-2016</h3>
-    </div>
+     
 
           <div className="about-card">
-          <i class='bx bxl-dev-to' style={{fontSize:'70px',color:'teal',marginLeft:'100px',marginTop:'50px', marginBottom:'20px'}}></i><span  className='about-span' style={{marginBottom:'20px'}}>Development</span>
-            <h2 style={{textAlign:'center', marginBottom:'20px'}} >Forensic Exam Android App</h2>
+          <i class='bx bxl-dev-to' style={{fontSize:'40px',color:'teal',marginLeft:'100px',marginTop:'50px'}}></i><span  className='about-span' style={{marginBottom:'20px', fontSize:'14px'}}>Development</span>
+            <h2 style={{textAlign:'center', marginBottom:'20px',fontSize:'14px', marginTop:'40px'}} >Forensic Exam Android App</h2>
             <h2 style={{textAlign:'center',marginBottom:'20px'}}>Project Head</h2>
             <h3>Ormap Forensicmart Private Limited</h3>
           </div>
 
           <div className="about-card">
-          <i class='bx bxl-dev-to' style={{fontSize:'70px',color:'teal',marginLeft:'100px',marginTop:'50px', marginBottom:'20px'}}></i><span  className='about-span' style={{marginBottom:'20px'}}>Development</span>
-            <h2 style={{textAlign:'center', marginBottom:'20px'}} >Forensic science and Criminology Android</h2>
+          <i class='bx bxl-dev-to' style={{fontSize:'40px',color:'teal',marginLeft:'100px',marginTop:'50px'}}></i><span  className='about-span' style={{marginBottom:'20px', fontSize:'14px'}}>Development</span>
+            <h2 style={{textAlign:'center', marginBottom:'20px', fontSize:'14px', marginTop:'40px'}} >Forensic science and Criminology Android</h2>
             <h2 style={{textAlign:'center',marginBottom:'20px'}}>Project Head</h2>
             <h3>Ormap Forensicmart Private Limited</h3>
           </div>
